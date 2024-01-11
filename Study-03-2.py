@@ -3,6 +3,7 @@
 from tkinter import *
 window = Tk()
 
+# 메인 코드
 label1 = Label(window, text = "COOKBOKK~~Python을")
 label2 = Label(window, text = "열심히", font = ("궁서체", 30),
                fg = "blue")
