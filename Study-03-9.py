@@ -1,6 +1,8 @@
 #code10-10.py
 
 from tkinter import *
+
+# 메인 코드
 window = Tk()
 
 btnList = [None] * 3
