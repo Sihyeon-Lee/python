@@ -1,4 +1,4 @@
-#code10-01.py
+#code10-01.
 
 from tkinter import *
 
