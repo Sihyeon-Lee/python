@@ -1,5 +1,4 @@
 #code02-06.py
-# 거북이 반복문 이용
 import turtle
 
 myT = None
